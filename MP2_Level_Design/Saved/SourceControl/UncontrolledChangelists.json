@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Maps/LearningKit_Games_MP2.umap",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/UI/WB_HealthDisplay.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/UI/WB_Restart.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/UI/T_Restart.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Assets/Props/Collectibles/heart_Plane_004.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Assets/_Shared/Materials/Material_001.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Assets/_Shared/Materials/M_Healthpack.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/Pickups/Healthpack_BP.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/Pickups/BP_Healthpack.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/UI/WB_ScoreDisplay.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/BP_Pursuer.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/EAIState.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Pursuer_AIController.uasset"
+			]
+		}
+	]
+}
