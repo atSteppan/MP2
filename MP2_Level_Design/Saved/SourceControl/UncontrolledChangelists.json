@@ -12,15 +12,25 @@
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/UI/WB_Restart.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/UI/T_Restart.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Assets/Props/Collectibles/heart_Plane_004.uasset",
-				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Assets/_Shared/Materials/Material_001.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Assets/_Shared/Materials/M_Healthpack.uasset",
-				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/Pickups/Healthpack_BP.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/Pickups/BP_Healthpack.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/UI/WB_ScoreDisplay.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/BP_Pursuer.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Pursuer/Pursuer_AIController.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Pursuer/EAIState.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Pursuer/BP_Pursuer.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Mortar/BP_Mortar.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Mortar/BP_MortarBullet.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Mortar/BP_Spinner.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/BP_Spinner.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Spinner/BP_Spinner.uasset",
 				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/EAIState.uasset",
-				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Pursuer_AIController.uasset"
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/NPCs/Pursuer_AIController.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Assets/_Shared/Materials/Material_001.uasset",
+				"C:/Users/Andrew/Documents/Unreal Projects/MP2/MP2/MP2_Level_Design/Content/LearningKit_Games/Blueprints/Pickups/Healthpack_BP.uasset"
 			]
 		}
 	]
